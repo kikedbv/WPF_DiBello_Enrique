@@ -86,17 +86,29 @@
 //for(i = promptValue);
 
 //Random Number
-var foodType;
-var randomValue = math.random();
-var jamaican = 0.35;
-var japan = 0.7;
-var burger = 0.8;
-var duck = 1;
+//var foodType;
+//var randomValue = math.random();
+//var jamaican = 0.35;
+//var japan = 0.7;
+//var burger = 0.8;
+//var duck = 1;
+//
+//if(randomValue < jamaican){foodType = "Jamaican"}
+//else if (randomValue < japan){foodtype = "Japan"}
+//else if (randomValue < burger){foodType = "Burger"}
+//else {foodType = "Duck"}
+//
+//console.log(foodType);
+//console.log(randomValue);
 
-if(randomValue < jamaican){foodType = "Jamaican"}
-else if (randomValue < japan){foodtype = "Japan"}
-else if (randomValue < burger){foodType = "Burger"}
-else {foodType = "Duck"}
-
-console.log(foodType);
-console.log(randomValue);
+//ARRAY / Didn't understand****
+//var xyzArray = [];
+//xyzArray [0] = "Happy";
+//xyzArray [1] = "Full Sail";
+//xyzArray [2] = 7;
+//xyzArray [3] = "bat";
+//
+//console.log(xyzArray[0]);
+//for(i=0; i<xyzArray.lenght; i=i+1){
+//    console.log(i);
+//}
