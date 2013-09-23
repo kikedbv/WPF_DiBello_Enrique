@@ -27,9 +27,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="javascript.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js">
+        <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="8" selection-start="1735" selection-end="1735" vertical-scroll-proportion="0.0">
+            <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#166#0" expanded="false" />
               </folding>
@@ -37,11 +37,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/index.html">
+      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06410257">
-              <folding />
+            <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.020661157">
+              <folding>
+                <element signature="e#0#166#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,12 +77,12 @@
         <option value="$PROJECT_DIR$/WPF_2209/index.html" />
         <option value="$PROJECT_DIR$/WPF_2209/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/JS/javascript.js" />
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/index.html" />
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js" />
       </list>
     </option>
   </component>
@@ -359,24 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="8" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.6404959">
-          <folding>
-            <element signature="e#0#166#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="1889" selection-end="1889" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#166#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.06410257">
@@ -386,7 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="8" selection-start="1735" selection-end="1735" vertical-scroll-proportion="0.0">
+        <state line="7" column="55" selection-start="222" selection-end="222" vertical-scroll-proportion="0.020661157">
           <folding>
             <element signature="e#0#166#0" expanded="false" />
           </folding>
@@ -397,6 +381,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06410257">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.020661157">
+          <folding>
+            <element signature="e#0#166#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

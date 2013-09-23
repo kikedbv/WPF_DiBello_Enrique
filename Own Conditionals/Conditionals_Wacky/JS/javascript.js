@@ -5,7 +5,7 @@
  * Time: 9:57 PM
  * To change this template use File | Settings | File Templates.
  */
-//Enrique Di Bello 9/19/13 Assignment Conditionals
+//Enrique Di Bello 9/19/13 Assignment Conditionals Waky
 
 //Is asking to user to enter the grade of the first exam
 var firstGrade = prompt("Enter your first's exam grade", "Enter your grade here!");
