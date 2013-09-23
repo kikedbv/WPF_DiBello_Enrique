@@ -5,7 +5,7 @@
  * Time: 7:20 PM
  * To change this template use File | Settings | File Templates.
  */
-//Enrique Di Bello 9/15/13 Assignment Conditionals Industry
+//Enrique Di Bello 9/15/13 Assignment Conditionals Personal
 
 //    Variable asking for the actual number of passagers on boat 1
 var boat1 = prompt ("Please, enter the amount of actual passagers in boat No.1", "Enter amount here");

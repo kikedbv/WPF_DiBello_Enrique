@@ -5,7 +5,7 @@
  * Time: 9:17 PM
  * To change this template use File | Settings | File Templates.
  */
-//Enrique Di Bello 9/18/13 Assignment Conditionals Personal
+//Enrique Di Bello 9/18/13 Assignment Conditionals Industry
 
 //Is asking the user to enter the velocity of the rotor A in knots
 var rotorA = prompt("Please, enter the velocity in knots of rotor A", "Enter the number HERE");
