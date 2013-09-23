@@ -7,7 +7,6 @@
  */
 //Enrique Di Bello, 9/13/13, Conditionals
 
-
 //Celsius to Fahrenheit converter
 //The givens
 var originalTemperature = prompt("Enter the number of degrees",70);

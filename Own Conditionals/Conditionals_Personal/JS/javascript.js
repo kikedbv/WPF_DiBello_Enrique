@@ -35,3 +35,5 @@ else if(boat1 == "" && boat2 == ""){
 //If both boats have the minimun passagers or more this section will tell the usr that both boats are ready to go.
 else if (boat1 >= 55 && boat2 >= 75){
     console.log("Both boats are ready to go!");}
+
+//Finish

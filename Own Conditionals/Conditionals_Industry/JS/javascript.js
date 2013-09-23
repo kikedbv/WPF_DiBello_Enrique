@@ -34,3 +34,5 @@ else if (rotorA < 15 || rotorA > 25 && rotorB < 15 || rotorB > 25){
 else if(rotorA > 14 && rotorA < 26 && rotorB > 14 && rotorB < 26){
     console.log("The ship is ready to pass through the Panama Canal.");
 }
+
+//Finish

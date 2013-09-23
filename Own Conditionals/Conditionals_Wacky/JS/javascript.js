@@ -34,3 +34,5 @@ else if(finalGrade < 70){
 else if(firstGrade == "" || secondGrade == ""){
     console.log("Please, check the grades and enter the values again.")
 }
+
+//Finish
