@@ -79,6 +79,7 @@ var imp = Math.random();
 }
 
 for(j=0;j<10;j++) {
+//    remove the "rowLand" variable and replace it with an Array
     var rowLand = "";
         for(i=0; i<10; i++){
         rowLand = rowLand + landType();
