@@ -11,8 +11,9 @@
 var actualPrice = parseInt(prompt("Please enter the actual price of the product"));
 //Is asking the user to enter the discount for the product
 var discount = parseInt(prompt("Enter the discount desired for the product", "Ex.: 25"));
-
+//Is transforming a natural number to a decimal (for percent purposes)
 var discPercent = discount / 100;
+//Is making the price entered by the user times the transformation of the desired discount divided by 100 (previous step)
 var newPrice = actualPrice * discPercent;
 var finalPrice = actualPrice - newPrice
 
