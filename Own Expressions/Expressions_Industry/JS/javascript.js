@@ -16,3 +16,4 @@ var newPrice = actualPrice * discPercent;
 var finalPrice = actualPrice - newPrice
 
 
+console.log("The sale price for the product will be $" + finalPrice + "!")
