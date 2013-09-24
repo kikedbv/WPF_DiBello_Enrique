@@ -16,7 +16,7 @@ var discPercent = discount / 100;
 //Is making the price entered by the user times the transformation of the desired discount divided by 100 (previous step)
 var newPrice = actualPrice * discPercent;
 //Is getting the new price by substracting the number gave on the previous spet from the price entered by the user.
-var finalPrice = actualPrice - newPrice
+var finalPrice = actualPrice - newPrice;
 
 //Is displaying the result of the calculation in the console.
 console.log("The sale price for the product will be $" + finalPrice + "!");
