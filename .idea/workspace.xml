@@ -5,7 +5,7 @@
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379972288911" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379993009641" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379994225201" ignored="false" />
     <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379991415684" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="550" selection-end="550" vertical-scroll-proportion="0.26859504">
+            <state line="15" column="112" selection-start="636" selection-end="636" vertical-scroll-proportion="0.18595041">
               <folding>
                 <element signature="e#0#167#0" expanded="false" />
               </folding>
@@ -457,7 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="550" selection-end="550" vertical-scroll-proportion="0.26859504">
+        <state line="15" column="112" selection-start="636" selection-end="636" vertical-scroll-proportion="0.18595041">
           <folding>
             <element signature="e#0#167#0" expanded="false" />
           </folding>

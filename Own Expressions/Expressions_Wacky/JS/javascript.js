@@ -8,12 +8,12 @@
 //Enrique Di Bello 9/23/13 Assignment Expressions Wacky
 
 
-var paperSheets = parseInt(prompt("Please enter the aprx. sheets of paper your bathroom paper have"));
+var paperSheets = parseInt(prompt("Please enter the aprx. sheets of paper your bathroom paper roll have"));
 var sheetsUsed = parseInt(prompt("Enter aprx. how many times you take paper from the roll after you ..."));
 
 var rollSheets = sheetsUsed * 4;
 var timesBathroom = paperSheets / rollSheets  ;
-console.log(timesBathroom);
+console.log("You can go " + Math.round(timesBathroom) + " times to the bathroom without changing the paper roll.");
 
 
 
