@@ -13,7 +13,7 @@ var sheetsUsed = parseInt(prompt("Enter aprx. how many times you take paper from
 
 var rollSheets = sheetsUsed * 4;
 var timesBathroom = paperSheets / rollSheets  ;
-
+console.log(timesBathroom);
 
 
 
