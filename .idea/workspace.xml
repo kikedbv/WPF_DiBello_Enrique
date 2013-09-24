@@ -5,8 +5,8 @@
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379972288911" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379990421156" ignored="false" />
-    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379989625695" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379992057264" ignored="false" />
+    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379991415684" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="87" selection-start="895" selection-end="895" vertical-scroll-proportion="0.24793388">
-              <folding>
-                <element signature="e#0#167#0" expanded="false" />
-              </folding>
+            <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html">
+      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
-              <folding />
+            <state line="9" column="31" selection-start="256" selection-end="256" vertical-scroll-proportion="0.06198347">
+              <folding>
+                <element signature="e#0#167#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/WPF_2209/index.html" />
-        <option value="$PROJECT_DIR$/WPF_2209/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/index.html" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/index.html" />
@@ -81,6 +79,8 @@
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Expressions/Expressions_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js" />
       </list>
     </option>
   </component>
@@ -161,22 +161,8 @@
               <option name="myItemId" value="Own Expressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DiBello_Enrique" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DiBello_Enrique" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Own Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Personal" />
+              <option name="myItemId" value="Expressions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,11 +180,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Personal" />
+              <option name="myItemId" value="Expressions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Own Expressions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,16 +348,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WPF_1609/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1842" selection-end="1863" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../wpfExampleGame/JS/gameFunctions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="385" selection-end="385" vertical-scroll-proportion="0.30991736" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Worksheet/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="41" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
@@ -426,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="167" selection-end="225" vertical-scroll-proportion="0.020661157">
@@ -451,7 +434,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="87" selection-start="895" selection-end="895" vertical-scroll-proportion="0.24793388">
+        <state line="7" column="0" selection-start="168" selection-end="226" vertical-scroll-proportion="0.020661157">
+          <folding>
+            <element signature="e#0#167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="0.12820514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="256" selection-end="256" vertical-scroll-proportion="0.06198347">
           <folding>
             <element signature="e#0#167#0" expanded="false" />
           </folding>
