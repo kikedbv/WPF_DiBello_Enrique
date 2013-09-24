@@ -7,4 +7,12 @@
  */
 //Enrique Di Bello 9/23/13 Assignment Expressions Personal
 
-var
+var salary = parseInt(prompt("Please, enter your current salary here"));
+var house = parseInt(prompt("Enter the house monthly payment"));
+var other = parseInt(prompt("Enter other monthly payments"));
+
+
+
+
+
+
