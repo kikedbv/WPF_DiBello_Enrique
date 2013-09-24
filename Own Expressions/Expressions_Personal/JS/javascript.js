@@ -7,11 +7,16 @@
  */
 //Enrique Di Bello 9/23/13 Assignment Expressions Personal
 
+
 var salary = parseInt(prompt("Please, enter your current salary here"));
+
 var house = parseInt(prompt("Enter the house monthly payment"));
+
 var other = parseInt(prompt("Enter other monthly payments"));
 
 monthlyG = salary - house - other;
+
+console.log(monthlyG);
 
 
 
