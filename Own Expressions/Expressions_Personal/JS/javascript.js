@@ -16,4 +16,4 @@ var other = parseInt(prompt("Enter other monthly payments"));
 //Is making subtracting the house and others monthly payments from the actual salary to get his final money
 monthlyG = salary - house - other;
 //Displaying to the user the result of the calculation
-console.log(monthlyG);
+console.log("You will have $" + monthlyG + " to spend after paying the house and others.");
