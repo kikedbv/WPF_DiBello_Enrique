@@ -11,4 +11,8 @@
 var actualPrice = parseInt(prompt("Please enter the actual price of the product"));
 var discount = parseInt(prompt("Enter the discount desired for the product", "Ex.: 25"));
 
+var discPercent = discount / 100;
+var newPrice = actualPrice * discPercent;
+var finalPrice = actualPrice - newPrice
+
 
