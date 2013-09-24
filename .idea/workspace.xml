@@ -5,8 +5,8 @@
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379972288911" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379987677000" ignored="false" />
-    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379986960535" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379989661386" ignored="false" />
+    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1379989625695" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,22 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html">
+      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="97" selection-end="97" vertical-scroll-proportion="-3.75">
-              <folding />
+            <state line="9" column="3" selection-start="231" selection-end="231" vertical-scroll-proportion="0.06198347">
+              <folding>
+                <element signature="e#0#167#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="77" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.3305785">
-              <folding>
-                <element signature="e#0#166#0" expanded="false" />
-              </folding>
+            <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/WPF_1809/JS/javascript.js" />
-        <option value="$PROJECT_DIR$/WPF_2009/index.html" />
         <option value="$PROJECT_DIR$/WPF_2209/index.html" />
         <option value="$PROJECT_DIR$/WPF_2209/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/JS/javascript.js" />
@@ -80,7 +78,9 @@
         <option value="$PROJECT_DIR$/WPF_2309/index.html" />
         <option value="$PROJECT_DIR$/WPF_2309/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html" />
+        <option value="$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js" />
       </list>
     </option>
   </component>
@@ -176,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Industry" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,7 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Industry" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -267,12 +267,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18303888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18303888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -348,16 +348,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WPF_2209/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.16528925" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_1509/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="31" selection-start="2433" selection-end="2433" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WPF_1609/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="0" selection-start="1842" selection-end="1863" vertical-scroll-proportion="0.0" />
@@ -427,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="97" selection-end="97" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="167" selection-end="222" vertical-scroll-proportion="0.020661157">
@@ -443,11 +426,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="77" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.3305785">
+        <state line="7" column="0" selection-start="167" selection-end="225" vertical-scroll-proportion="0.020661157">
           <folding>
             <element signature="e#0#166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="97" selection-end="97" vertical-scroll-proportion="0.12820514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Personal/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="231" selection-end="231" vertical-scroll-proportion="0.06198347">
+          <folding>
+            <element signature="e#0#167#0" expanded="false" />
           </folding>
         </state>
       </provider>

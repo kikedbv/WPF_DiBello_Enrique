@@ -5,7 +5,7 @@
  * Time: 9:42 PM
  * To change this template use File | Settings | File Templates.
  */
-//Enrique Di Bello 9/19/13 Assignment Expressions Industry
+//Enrique Di Bello 9/23/13 Assignment Expressions Industry
 
 //Is asking the user to enter the price of the product.
 var actualPrice = parseInt(prompt("Please enter the actual price of the product"));
