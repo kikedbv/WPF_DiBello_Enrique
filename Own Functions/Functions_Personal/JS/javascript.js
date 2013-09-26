@@ -17,3 +17,7 @@ var calcAddition = function(adding){
     a = calcAddition(parseInt(prompt("Now, enter the amount of money added to your account.")));
     console.log("Your actual balance in your account is $" + a + ".");
 }
+else if(method == "Take out"){
+    var calcSubstraction = function(substracting){
+        return actualAmount - substracting;
+    }
