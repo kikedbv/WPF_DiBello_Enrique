@@ -21,3 +21,5 @@ else if(method == "Take out"){
     var calcSubstraction = function(substracting){
         return actualAmount - substracting;
     }
+    s = calcSubstraction(parseInt(prompt("Now, enter the amount of money you took out from the account")));
+    console.log("Your actual balance in your account is $" + s + ".");
