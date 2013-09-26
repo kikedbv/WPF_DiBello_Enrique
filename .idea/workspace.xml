@@ -5,7 +5,7 @@
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380159690203" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380165243367" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380166276588" ignored="false" />
     <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380162556375" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="0.12396694">
+            <state line="16" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.20661157">
               <folding>
                 <element signature="e#0#167#0" expanded="false" />
               </folding>
@@ -488,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="0.12396694">
+        <state line="16" column="0" selection-start="496" selection-end="496" vertical-scroll-proportion="0.20661157">
           <folding>
             <element signature="e#0#167#0" expanded="false" />
           </folding>

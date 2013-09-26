@@ -7,6 +7,10 @@
  */
 //Enrique Di Bello V.  09/25/2013  Functions Personal
 
-var mehod = "";
-var actualAmount = 0 ;
+var method = prompt("Please, type the service needed \"Add\" or \"Take out\".");
+var actualAmount = parseInt(prompt("Please enter the actual amount of money in your account.")) ;
 
+if(method == "Add"){
+var calcAddition = function(adding){
+   return actualAmount + adding;
+}
