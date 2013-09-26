@@ -4,9 +4,9 @@
     <list default="true" id="d9ec7294-3449-444e-94e2-d1d312e3bef8" name="Default" comment="" />
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380144295169" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380152760812" ignored="false" />
-    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380152595949" ignored="false" />
+    <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380159690203" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380162051665" ignored="false" />
+    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380162301581" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,28 @@
     <favorites_list name="WPF_DiBello_Enrique" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Industrial/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-5.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Industrial/JS/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="42" selection-start="860" selection-end="860" vertical-scroll-proportion="0.37190083">
+              <folding>
+                <element signature="e#0#166#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -44,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/index.html" />
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js" />
@@ -60,6 +79,8 @@
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js" />
         <option value="$PROJECT_DIR$/WPF_2509/index.html" />
         <option value="$PROJECT_DIR$/WPF_2509/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Functions/Functions_Industrial/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Functions/Functions_Industrial/index.html" />
       </list>
     </option>
   </component>
@@ -127,6 +148,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Own Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -137,8 +172,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wpfExampleGame" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -192,12 +227,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18303888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18303888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -275,16 +310,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.06410257" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06410257" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Industry/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.1446281" />
@@ -307,11 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_2309/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="27" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#166#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="76" column="27" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Wacky/JS/javascript.js">
@@ -321,11 +342,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="167" selection-end="225" vertical-scroll-proportion="0.020661157">
-          <folding>
-            <element signature="e#0#166#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="7" column="0" selection-start="167" selection-end="225" vertical-scroll-proportion="0.020661157" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html">
@@ -349,32 +366,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="45" selection-start="644" selection-end="644" vertical-scroll-proportion="0.2892562">
-          <folding>
-            <element signature="e#0#167#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="20" column="45" selection-start="644" selection-end="644" vertical-scroll-proportion="0.2892562" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Own Expressions/Expressions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="0.12820514">
-          <folding />
-        </state>
+        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="0.12820514" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_2509/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="284" selection-end="284" vertical-scroll-proportion="-8.75">
-          <folding />
-        </state>
+        <state line="14" column="8" selection-start="284" selection-end="284" vertical-scroll-proportion="-8.75" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_2509/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="20" selection-start="1452" selection-end="1452" vertical-scroll-proportion="0.87603307">
+        <state line="54" column="20" selection-start="1452" selection-end="1452" vertical-scroll-proportion="0.87603307" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Industrial/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="236" selection-end="236" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Industrial/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="42" selection-start="860" selection-end="860" vertical-scroll-proportion="0.37190083">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#166#0" expanded="false" />
           </folding>
         </state>
       </provider>
