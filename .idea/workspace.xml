@@ -5,8 +5,8 @@
     <ignored path="WPF_DiBello_Enrique.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380159690203" ignored="false" />
-    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380166276588" ignored="false" />
-    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380162556375" ignored="false" />
+    <file path="/javascript.js" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380166647661" ignored="false" />
+    <file path="/index.html" changelist="d9ec7294-3449-444e-94e2-d1d312e3bef8" time="1380166566471" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +27,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/index.html">
+        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.75">
+            <state line="6" column="32" selection-start="97" selection-end="97" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js">
+        <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Wacky/JS/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.5165289">
+            <state line="14" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.16528925">
               <folding>
                 <element signature="e#0#167#0" expanded="false" />
               </folding>
@@ -76,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js" />
-        <option value="$PROJECT_DIR$/WPF_2009/JS/javascript.js" />
         <option value="$PROJECT_DIR$/WPF_2309/index.html" />
         <option value="$PROJECT_DIR$/WPF_2309/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Expressions/Expressions_Industry/index.html" />
@@ -92,6 +90,8 @@
         <option value="$PROJECT_DIR$/Own Functions/Functions_Industrial/JS/javascript.js" />
         <option value="$PROJECT_DIR$/WPF_2509/JS/javascript.js" />
         <option value="$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js" />
+        <option value="$PROJECT_DIR$/Own Functions/Functions_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Own Functions/Functions_Wacky/JS/javascript.js" />
       </list>
     </option>
   </component>
@@ -204,22 +204,8 @@
               <option name="myItemId" value="Own Functions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DiBello_Enrique" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_DiBello_Enrique" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Own Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemId" value="Functions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,11 +223,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemId" value="Functions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_DiBello_Enrique" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Own Functions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,16 +393,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Own Conditionals/Conditionals_Personal/JS/javascript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="59" selection-start="226" selection-end="226" vertical-scroll-proportion="0.1446281" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_2309/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.75" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WPF_2309/JS/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="27" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0" />
@@ -470,9 +460,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.5165289">
+          <folding>
+            <element signature="e#0#167#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.75">
+        <state line="6" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="0.12820514">
           <folding />
         </state>
       </provider>
@@ -486,9 +485,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Personal/JS/javascript.js">
+    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1054" selection-end="1054" vertical-scroll-proportion="0.5165289">
+        <state line="6" column="32" selection-start="97" selection-end="97" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Own Functions/Functions_Wacky/JS/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.16528925">
           <folding>
             <element signature="e#0#167#0" expanded="false" />
           </folding>

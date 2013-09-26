@@ -8,3 +8,8 @@
 //Enrique Di Bello  09/25/2013  Wacky function
 
 var firstInput = "";
+
+console.log (firstInput);
+
+
+
