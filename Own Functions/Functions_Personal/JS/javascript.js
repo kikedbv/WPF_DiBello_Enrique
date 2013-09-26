@@ -14,3 +14,6 @@ if(method == "Add"){
 var calcAddition = function(adding){
    return actualAmount + adding;
 }
+    a = calcAddition(parseInt(prompt("Now, enter the amount of money added to your account.")));
+    console.log("Your actual balance in your account is $" + a + ".");
+}
