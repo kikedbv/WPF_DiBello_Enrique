@@ -24,30 +24,30 @@
 //secondArray [3] = "Never";
 //
 ////*********************************
-//
-//if(firstArray.length > secondArray.length){
-//    console.log(firstArray);
-//}
-//else {
-//    console.log(secondArray);
-//}
-//
-////*********************************
-//
-//function addition(first, second, third){
-//
-//    return first + second +third; //return (first + second +third);
-//}
-//console.log(addition(5,10,15)) ;
-//
-////*********************************
-////Name, Last Name, age
-//
-//function personInfo(name, lastName, age){
-//    return name += lastName += age;
-//}
-//console.log( personInfo("My name is " + "Joe ", "Dalton" + " and I am ",38 + " years old.") );
-//console.log( personInfo("My name is " + "Enrique ", "Di Bello" + " and I am ", 19 + " years old.") );
+
+if(firstArray.length > secondArray.length){
+    console.log(firstArray);
+}
+else {
+    console.log(secondArray);
+}
+
+//*********************************
+
+function addition(first, second, third){
+
+    return first + second +third; //return (first + second +third);
+}
+console.log(addition(5,10,15)) ;
+
+//*********************************
+//Name, Last Name, age
+
+function personInfo(name, lastName, age){
+    return name += lastName += age;
+}
+console.log( personInfo("My name is " + "Joe ", "Dalton" + " and I am ",38 + " years old.") );
+console.log( personInfo("My name is " + "Enrique ", "Di Bello" + " and I am ", 19 + " years old.") );
 
 function name(){
    return document.getElementById("name1");
