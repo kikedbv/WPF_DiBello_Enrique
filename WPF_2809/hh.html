@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Form 2</title>
+    <script type="text/javascript" src="jquery-1.10.2.min.js">
+    </script>
+
+    <style type="text/css">
+            /*
+            .form-field{
+                clear:both;
+                padding:10px;
+                width:350px;
+            }
+
+            .form-field label{
+                float:left;
+                width:150px;
+                text-align:right;
+            }
+
+            .form-field input{
+                float:right;
+                width:150px;
+                text-align:left;
+            }
+            #submit{
+                text-align:center;
+            }
+            */
+    </style>
+
+</head>
+
+<body>
+
+<h1>A Basic Form</h1>
+<hr />
+<form action="#">
+
+    <legend>Car Trim and Package Information</legend>
+
+    <div class="form-field">
+
+        <div>
+            <h5>Package</h5>
+        </div>
+
+        <input type="radio" id="plain" name="package" value="plain" />
+        <label for="plain">Plain</label>
+
+        <input type="radio" id="deluxe" name="package" value="deluxe" />
+        <label for="deluxe">Deluxe</label>
+
+        <input type="radio" id="custom" name="package" value="custom" />
+        <label for="custom">Custom</label>
+
+    </div>
+
+    <div class="form-field">
+        <div>
+            <h5>Extra Options</h5>
+        </div>
+
+        <input type="checkbox" name="options" id="foglights" value="foglights" />
+        <label for="foglights">Fog Lights</label>
+
+        <input type="checkbox" name="options" id="leather" value="leather" />
+        <label for="leather">Leather</label>
+
+        <input type="checkbox" name="options" id="dvd" value="dvd" />
+        <label for="dvd">DVD</label>
+    </div>
+
+    <div class="form-field">
+        <input type="submit" name="submit" id="submit" value="Send Form" />
+    </div>
+
+</form>
+
+<script type="text/ecmascript">
+    $(document).ready(function() {
+    $("input [name='package']").click(function(event) {
+    if ($(this).val() == "deluxe") {
+    $("input [name='option']").attr("cheked", true);
+    }
+    else if ($(this).val() == "plain") {
+    $("input [name='option']").attr("checked", false);
+    }
+    });
+    $("input[name='options']").click(function(event) {
+    $("#custom").attr("checked", "checked");
+    });
+    });
+                                      </script>
+</body>
+</html>
